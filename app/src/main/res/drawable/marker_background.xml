@@ -1,0 +1,6 @@
+<!-- res/drawable/marker_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#304567" />
+    <corners android:radius="4dp" />
+    <padding android:left="10dp" android:top="5dp" android:right="10dp" android:bottom="5dp" />
+</shape>
